@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>来点谐音梗笑话</h1>
+  <button onclick="tryit!()">点我</button>
+<script>
+  function tryit!(){
+    var txt
+    var answer = prompt("整天不吃饭的中国人会练成什么？")
+    if(answer = "Chinese 空腹"){
+      txt = "笑死，确实"
+    }else{
+      txt = "不太聪明的样子"
+    }
+  }
+  </script>
+</body>
+</html>
